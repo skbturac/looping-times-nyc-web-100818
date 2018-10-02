@@ -3,6 +3,7 @@ def using_times
 	7.times do 
   puts "Wngardium Leviosa"
 end
+end
 
 
 
